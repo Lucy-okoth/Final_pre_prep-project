@@ -79,5 +79,9 @@ legend{
     
 }
 .image{
+    border-width: 2px;
+    max-width: 50%;
+    width: 50%;
+    
 
 }
