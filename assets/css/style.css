@@ -52,6 +52,7 @@ nav{
 .data{
     width: 90vw;
     margin: 20px auto;
+    display: block;
 }
 fieldset{
     margin: 10px 0;
