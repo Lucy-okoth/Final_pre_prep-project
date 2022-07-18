@@ -22,6 +22,7 @@ button{
     border-radius: 5px;
     font-size: larger;
     margin-top: 5px;
+    
 }
 nav{
     display: flex;
@@ -91,4 +92,7 @@ legend{
 .btn_price{
     align-items: flex-end;
     padding-top: 2px;
+}
+.btnHome{
+align-items: flex-start;
 }
