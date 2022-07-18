@@ -55,6 +55,10 @@ nav{
     margin: 20px auto;
     display: block;
 }
+/*style nav buttons*/
+.btnHome{
+    flex-direction: initial;
+    }
 fieldset{
     margin: 10px 0;
     padding: 20px;
@@ -70,6 +74,10 @@ legend{
 .form2 label{
     margin-right: 20px;
 }
+.btn_price{
+    align-items: flex-end;
+    padding-top: 2px;
+}
 .form2 input{
     outline: none;
     border: 1px solid rgba(0, 0,0, 0.2);
@@ -79,6 +87,7 @@ legend{
     color: #000;
     
 }
+
 .image{
     border-width: 2px;
     max-width: 50%;
@@ -88,11 +97,4 @@ legend{
 }
 .price{
     text-align: center;
-}
-.btn_price{
-    align-items: flex-end;
-    padding-top: 2px;
-}
-.btnHome{
-align-items: flex-start;
 }
